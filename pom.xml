@@ -4,7 +4,7 @@
 
     <groupId>org.trustedanalytics</groupId>
     <artifactId>tap-root</artifactId>
-    <version>0.2.0-SNAPSHOT</version>
+    <version>master-SNAPSHOT</version>
 
     <name>trusted analytics root</name>
     <description>trusted analytics root pom</description>
