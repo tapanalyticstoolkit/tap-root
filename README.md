@@ -1,6 +1,6 @@
 # tap-root
 
-This repo contains pom files for all the repos.
+This repo contains the maven parent pom file for the other repos.
 
 ## What's new
 
